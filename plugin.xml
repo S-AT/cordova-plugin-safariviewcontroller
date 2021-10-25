@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <plugin
     id="cordova-plugin-safariviewcontroller"
-    version="2.0.0"
+    version="2.0.1"
     xmlns="http://apache.org/cordova/ns/plugins/1.0">
 
   <name>SafariViewController</name>
@@ -9,7 +9,7 @@
   <author>Eddy Verbruggen</author>
 
   <description>
-    Forget InAppBrowser for iOS - this is way better for displaying read-only web content in your PhoneGap app.
+    Forget InAppBrowser for iOS - this is way better for displaying read-only web content in your Cordova app.
   </description>
 
   <keywords>InAppBrowser, InAppSafariBrowser, Safari, Safari ViewController</keywords>
